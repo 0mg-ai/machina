@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+dist/
+*.egg-info/
+.eggs/
+
+# Node.js
+node_modules/
+dist/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Coverage
+coverage/
+htmlcov/
+.coverage
+
+# Docker
+*.secret.yaml
+
+
+.playwright-mcp/
+backend/services/simulation/geodata/
